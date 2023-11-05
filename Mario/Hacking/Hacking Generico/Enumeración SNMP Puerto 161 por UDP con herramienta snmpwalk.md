@@ -1,0 +1,6 @@
+Vamos a hacer un escaneo por UDP para ver si nos encuentra algo nuevo, ya que por TCP sólo encontró un puerto. Lo haríamos de esta manera y este sería el resultado, donde vemos que el puerto 161 está abierto:  
+![Pasted image 20230509115408.png](app://local/C:/Users/mario/Documents/conocimientoo/conocimiento/Pasted%20image%2020230509115408.png?1683626048134)  
+Ahora vamos a hacer muchas peticiones SNMP con un comando conocido como snmpwalk que sirve para obtener información de SNMP, seguido del diccionario public y después la dirección IP:  
+![Pasted image 20230509115416.png](app://local/C:/Users/mario/Documents/conocimientoo/conocimiento/Pasted%20image%2020230509115416.png?1683626056819)  
+Una vez mostrada esta información en hexadecimal, tenemos que convertirla, para ello podemos utilizar el comando xxd, donde obtendremos unas credenciales:  
+![Pasted image 20230509115425.png](app://local/C:/Users/mario/Documents/conocimientoo/conocimiento/Pasted%20image%2020230509115425.png?1683626065636)

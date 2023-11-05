@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "a51ce41dcc5988cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab656d927683eeda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43134b5c5dbc32ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "600184275a3d9f77",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f252b202be8c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e22362f36bab564",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0d256ae4dd19219",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d1722b407bc9a88",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fd39118f91a009e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "48486ffb83c6b1c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb5a759a5c03930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8287d794a86846e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a4bb9364a1df2b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9925a437d9f11c3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67754fe5d06f50e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "7e22362f36bab564",
+  "lastOpenFiles": [
+    "Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
+    "images/29-4.png",
+    "images/29-2.png",
+    "images/29-1.png",
+    "Cambios.md",
+    "Hacking/Hacking Generico/Hacking Web/(CSTI) - Client-Side Template Injection.md",
+    "Hacking/Hacking Generico/Hacking Web/Padding Oracle Attack.md",
+    "Hacking/Vulnhub/MAQUINA PADDING ORACLE.md",
+    "Hacking/Hacking Generico/Hacking Web/Robo de Cookies de Sesión + XSS.md",
+    "Pasted image 20230706162456.png",
+    "Pasted image 20230706162411.png",
+    "Pasted image 20230706162314.png",
+    "Pasted image 20230706161923.png",
+    "Pasted image 20230706161853.png",
+    "Pasted image 20230706161721.png",
+    "Pasted image 20230706161456.png",
+    "Hacking/Hacking Generico/Hacking Web/(SSRF) - Server-Side Request Forgery.md",
+    "Linux/Git/3 - Subir Archivos  GitHub.md",
+    "Linux/Git/4 - Conocer las Modificaciones que tuvo un Proyecto de Github.md",
+    "Linux/Bash Scripting/Utilizar colores dentro de un script de bash.md",
+    "Linux/Bash Scripting/Herramientas Prácticas/HERRAMIENTA BASH PARA BUSCAR ARCHIVOS EN TODO EL SISTEMA LINUX.md",
+    "Linux/Bash Scripting/Herramientas Prácticas/HERRAMIENTA BASH PARA SABER EL SISTEMA OPERATIVO DE UNA IP.md",
+    "Linux/Bash Scripting/Herramientas Prácticas/HERRAMIENTA BASH SCRAPPING.md",
+    "Linux/Bash Scripting/1 - Comando FIND.md",
+    "Hacking/HackTheBox/Consideraciones Previas.md",
+    "Hacking/Vulnhub/Máquina EMPIRE BREAKOUT (Enumerar usuarios válidos en panel de login con enum4linux y escalar privilegios con capabilities).md",
+    "Hacking/Vulnhub/Máquina TEMPUS FUGIT 3.md",
+    "Python/Hacking Python/Paramiko - SSH con Python.md"
+  ]
+}

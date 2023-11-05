@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "54e3dd515d21150e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9b497154b79edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3cca7ea02d562e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0aa142a90086e059",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23435f52091ade8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea1c1f8fc3fb8f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975600bc71edd35a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "043dc09a97cc579b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "204db31b0ae452a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "397f7cb7a974ba03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30830d6c6f1e606c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mario/Hacking/Escalada de Privilegios/Linux/PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebaef3d6838d5339",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mario/Hacking/Escalada de Privilegios/Linux/PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2005a58bfefbd878",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80849a28f710a35b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mario/Hacking/Escalada de Privilegios/Linux/PSPY - Herramienta ver Comandos Automatizados del Sistema Linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ea1c1f8fc3fb8f1",
+  "lastOpenFiles": [
+    "Mario/Hacking/Escalada de Privilegios/Linux/Permisos SUID.md",
+    "Mario/Hacking/Escalada de Privilegios/Linux/9 - Escalar Privilegios Revisando las Variable de Entorno.md",
+    "Mario/Hacking/Escalada de Privilegios/Linux/8 - Manipular el PATH - Path Hijacking.md",
+    "Mario/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
+    "Mario/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
+    "Mario/Coding/Python/API/Conectar Python con AbuseIP.md",
+    "part3n0p3",
+    "conocimiento/images/wrsfgwsergrsedghdrfg.png",
+    "conocimiento/images/Untitled.png",
+    "conocimiento/images/Untitled 9.png",
+    "conocimiento/images/Untitled 7.png",
+    "conocimiento/images/Untitled 8.png",
+    "conocimiento/images/Untitled 7 1.png",
+    "conocimiento/images/Untitled 6.png",
+    "conocimiento/images/Untitled 6 1.png",
+    "conocimiento/images/Untitled 5.png",
+    "conocimiento/images/Untitled 4.png",
+    "conocimiento/images/Pasted image 20230130113623.png.md",
+    "conocimiento/images/Pasted image 20230124210255.png.md",
+    "conocimiento/images/Pasted image 20230124204752.png.md",
+    "conocimiento/images",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 3 - Blind OS command injection with output redirection.md",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 4 -- Máquina 5.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 2 -- Máquina 3.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 3 -- Máquina 4.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 1 -- Máquina 2.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Kali Linux -- Máquina 1.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/0 - Preparación del Entorno.md",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Gobuster.md",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
+    "conocimiento/Hacking/Escalada de Privilegios/Windows/7 - PrivescCheck.md",
+    "conocimiento/Hacking/Escalada de Privilegios/Windows/6 - Extensión Kiwi.md",
+    "conocimiento/Hacking/Escalada de Privilegios/Windows/2 - Named Pipe Impersonation.md",
+    "conocimiento/Hacking/Escalada de Privilegios/Windows/4 - Enumeración de Grupos y Usuarios.md",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger",
+    "conocimiento/Hacking/Hacking Generico/Hacking Web/Fuzzing Web",
+    "conocimiento/Hacking/Escalada de Privilegios/Windows",
+    "conocimiento/Hacking/Escalada de Privilegios/Linux",
+    "conocimiento/Hacking/Pivoting/Preparación eCPPTv2",
+    "conocimiento/Hacking/Hacking Active Directory/Servicio SMB"
+  ]
+}
